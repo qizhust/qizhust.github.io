@@ -19,10 +19,9 @@ Dr. Qi Zheng received the bachelor’s and master’s degrees in information eng
 
 - Feb 2025: One paper on Visual-Inertial Odometry (VIO) is accepted by RA-L, congrats to Changshi!
 - Sep 2024: One paper on Image Paragraph Captioning is accepted by CVIU.
-- Sep 2024: One paper on Vision-Language Navigation (VLN) is accepted by IJCV.
+- Jul 2024: One paper on Vision-Language Navigation (VLN) is accepted by IJCV.
 - Apr 2024: One paper on Embodied Planning is accepted by IJCAI, congrats to Kanxue!
 - Mar 2023: One paper on Video Representation Learning is accepted by CVPR as a Highlight, congrats to Heng!
- 
 
 # Publications
 

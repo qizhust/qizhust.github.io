@@ -4,3 +4,4 @@
 
 - feat: add about me
 - fix: profile image
+- fix: date for IJCV paper
