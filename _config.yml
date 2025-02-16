@@ -12,7 +12,7 @@ title                    : "Qi Zheng"
 title_separator          : "-"
 name                     : &name "Qi Zheng"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qizhust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_profile2.png"
+  avatar           : "profile.png"
   name             : "Qi Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
