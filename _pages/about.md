@@ -16,6 +16,7 @@ Dr. Qi Zheng is an Assistant Professor at the College of Electronic and Informat
 
 
 # News
+- Mar 2025: One paper on Point Cloud Completion is accepted by TMM, congrats to Junkang!
 - Feb 2025: One paper on HOI reconstruction is accepted by CVPR, congrats to Zhenrong!
 - Feb 2025: One paper on Visual-Inertial Odometry (VIO) is accepted by RA-L, congrats to Changshi!
 - Sep 2024: One paper on Image Paragraph Captioning is accepted by CVIU.
@@ -29,11 +30,12 @@ Dr. Qi Zheng is an Assistant Professor at the College of Electronic and Informat
 
 ## Bubble
 
-- Ma J, Wang S, **Zheng Q**, and Mai X. Geometric Continuity and Consistency Learning for Self-Supervised Point Cloud Completion, major revision in TMM.
 - Li D, Peng B, Li C, Qiao N, **Zheng Q**, et al. An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation. [\[arXiv\]](https://arxiv.org/abs/2501.15068)
  
 
 ## Journal
+
+- Ma J, Wang S, **Zheng Q**, and Mai X. Geometric Continuity and Consistency Learning for Self-Supervised Point Cloud Completion. IEEE Transactions on Multimedia, 2025.
 
 - Mu C#, Feng D, **Zheng Q**, et al. A Robust and Efficient Visual-Inertial Initialization with Probabilistic Normal Epipolar Constraint[J]. IEEE Robotics and Automation Letters, 2025. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10897892) [\[code\]](https://github.com/MUCS714/DRT-PNEC.git)
 
@@ -53,7 +55,7 @@ Dr. Qi Zheng is an Assistant Professor at the College of Electronic and Informat
 
 ## Conference
 
-- Wang Z#, **Zheng Q**, et al. End-to-End HOI Reconstruction Transformer with Graph-based Encoding. CVPR, 2025.
+- Wang Z#, **Zheng Q**, et al. End-to-End HOI Reconstruction Transformer with Graph-based Encoding. CVPR, 2025. [\[arxiv\]](https://arxiv.org/abs/2503.06012)
 
 - **Zheng Q**. Cross-modal contrastive learning for robust reasoning in vqa[C]//2024 7th International Conference on Pattern Recognition and Artificial Intelligence (PRAI). IEEE, 2024: 905-913. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10826861)
 
