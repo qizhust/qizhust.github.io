@@ -16,6 +16,7 @@ Dr. Qi Zheng is an Assistant Professor at the College of Electronic and Informat
 
 
 # News
+- Apr 2025: HOI-TG is selected as a highlight for CVPR (<3%), congrats to Zhenrong!
 - Mar 2025: One paper on Point Cloud Completion is accepted by TMM, congrats to Junkang!
 - Feb 2025: One paper on HOI reconstruction is accepted by CVPR, congrats to Zhenrong!
 - Feb 2025: One paper on Visual-Inertial Odometry (VIO) is accepted by RA-L, congrats to Changshi!
@@ -54,8 +55,7 @@ Dr. Qi Zheng is an Assistant Professor at the College of Electronic and Informat
  
 
 ## Conference
-
-- Wang Z#, **Zheng Q**, et al. End-to-End HOI Reconstruction Transformer with Graph-based Encoding. CVPR, 2025. [\[arxiv\]](https://arxiv.org/abs/2503.06012)
+- Wang Z#, **Zheng Q**, et al. End-to-End HOI Reconstruction Transformer with Graph-based Encoding. CVPR, 2025. <span style="color:red">Highlight Presentation</span> [\[arxiv\]](https://arxiv.org/abs/2503.06012) [\[code\]](https://hoi-tg.github.io/) 
 
 - **Zheng Q**. Cross-modal contrastive learning for robust reasoning in vqa[C]//2024 7th International Conference on Pattern Recognition and Artificial Intelligence (PRAI). IEEE, 2024: 905-913. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10826861)
 
