@@ -9,11 +9,13 @@ redirect_from:
 
 Dr. Qi Zheng is an Assistant Professor at the College of Electronic and Information Engineering, Shenzhen University. She earned her bachelor’s and master’s degrees in information engineering from Huazhong University of Science and Technology, where she conducted research under the guidance of Wei Yuan and Xinge You, respectively. She then pursued her Ph.D. in computer science at the University of Sydney, working with [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-TW), where she focused on multimodal learning.
 
-# Research Interests
+# Research Focus
 
 - Embodied Intelligence: Indoor Embodied Navigation & Manipulation
 - 3D Human-Object Interaction (HOI): Reconstruction, Generation, Skill-learning
 
+# <span style="color:red">Join Our Team in Fall 2026</span>
+We have a limited number of openings for dedicated Master’s and Ph.D. students. If our research aligns with your ambitions, let’s build the future of intelligent interaction together.
 
 # News
 - Apr 2025: HOI-TG is selected as a highlight for CVPR (<3%), congrats to Zhenrong!
@@ -36,7 +38,7 @@ Dr. Qi Zheng is an Assistant Professor at the College of Electronic and Informat
 
 ## Journal
 
-- Ma J, Wang S, **Zheng Q**, and Mai X. Geometric Continuity and Consistency Learning for Self-Supervised Point Cloud Completion. IEEE Transactions on Multimedia, 2025.
+- Ma J, Wang S, **Zheng Q**, and Mai X. Geometric Continuity and Consistency Learning for Self-Supervised Point Cloud Completion[J]. IEEE Transactions on Multimedia, 2025. [\[paper\]](https://ieeexplore.ieee.org/document/11175464)
 
 - Mu C#, Feng D, **Zheng Q**, et al. A Robust and Efficient Visual-Inertial Initialization with Probabilistic Normal Epipolar Constraint[J]. IEEE Robotics and Automation Letters, 2025. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10897892) [\[code\]](https://github.com/MUCS714/DRT-PNEC.git)
 
@@ -55,7 +57,7 @@ Dr. Qi Zheng is an Assistant Professor at the College of Electronic and Informat
  
 
 ## Conference
-- Wang Z#, **Zheng Q**, et al. End-to-End HOI Reconstruction Transformer with Graph-based Encoding. CVPR, 2025. <span style="color:red">Highlight Presentation</span> [\[arxiv\]](https://arxiv.org/abs/2503.06012) [\[code\]](https://hoi-tg.github.io/) 
+- Wang Z#, **Zheng Q**, et al. End-to-End HOI Reconstruction Transformer with Graph-based Encoding. CVPR, 2025. <span style="color:red">Highlight Presentation</span> [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_End-to-End_HOI_Reconstruction_Transformer_with_Graph-based_Encoding_CVPR_2025_paper.pdf) [\[code\]](https://hoi-tg.github.io/) 
 
 - **Zheng Q**. Cross-modal contrastive learning for robust reasoning in vqa[C]//2024 7th International Conference on Pattern Recognition and Artificial Intelligence (PRAI). IEEE, 2024: 905-913. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10826861)
 
