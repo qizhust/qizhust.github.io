@@ -18,6 +18,7 @@ Dr. Qi Zheng is an Assistant Professor at the College of Electronic and Informat
 We have a limited number of openings for dedicated Master’s and Ph.D. students. If our research aligns with your ambitions, let’s build the future of intelligent interaction together.
 
 # News
+- Feb 2026: One paper on SLAM is accepted by TIM, congrats to Yuanbiao!
 - Apr 2025: HOI-TG is selected as a highlight for CVPR (<3%), congrats to Zhenrong!
 - Mar 2025: One paper on Point Cloud Completion is accepted by TMM, congrats to Junkang!
 - Feb 2025: One paper on HOI reconstruction is accepted by CVPR, congrats to Zhenrong!
@@ -37,6 +38,8 @@ We have a limited number of openings for dedicated Master’s and Ph.D. students
  
 
 ## Journal
+
+- Yang Y#, Feng D, **Zheng Q**, Zhuang Y. VIR-Fusion: A Robust Visual-Inertial-UWB Fusion SLAM System for Corner Cases[J]. IEEE Transactions on Instrumentation and Measurement, 2026. [\[paper\]](https://ieeexplore.ieee.org/document/11408157)
 
 - Ma J, Wang S, **Zheng Q**, and Mai X. Geometric Continuity and Consistency Learning for Self-Supervised Point Cloud Completion[J]. IEEE Transactions on Multimedia, 2025. [\[paper\]](https://ieeexplore.ieee.org/document/11175464)
 
@@ -77,7 +80,8 @@ We have a limited number of openings for dedicated Master’s and Ph.D. students
 
 
 # Teaching
-
+- 2026 Spring: An Introduction to Robotics
+- 2025 Fall: Complex Functions and Field Theory
 - 2025 Spring: An Introduction to Robotics
 - 2024 Fall: Complex Functions and Field Theory
 - 2024 Spring: An Introduction to Robotics
