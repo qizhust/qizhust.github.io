@@ -18,6 +18,7 @@ Dr. Qi Zheng is an Assistant Professor at the College of Electronic and Informat
 We have a limited number of openings for dedicated Master’s and Ph.D. students. If our research aligns with your ambitions, let’s build the future of intelligent interaction together.
 
 # News
+- Apr 2026: One paper on Indoor Occupancy Prediction is accepted by Pattern Recognition, congrats to Shizhang!
 - Feb 2026: One paper on SLAM is accepted by TIM, congrats to Yuanbiao!
 - Apr 2025: HOI-TG is selected as a highlight for CVPR (<3%), congrats to Zhenrong!
 - Mar 2025: One paper on Point Cloud Completion is accepted by TMM, congrats to Junkang!
@@ -38,6 +39,7 @@ We have a limited number of openings for dedicated Master’s and Ph.D. students
  
 
 ## Journal
+- Fang S#, **Zheng Q**, Wang X. A Dual Residual Transformer Architecture for Indoor Semantic Occupancy Prediction[J]. Pattern Recognition, 2026: 113667. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326006321?via%3Dihub) [\[code\]](https://github.com/encounter7777/DROcc)
 
 - Yang Y#, Feng D, **Zheng Q**, Zhuang Y. VIR-Fusion: A Robust Visual-Inertial-UWB Fusion SLAM System for Corner Cases[J]. IEEE Transactions on Instrumentation and Measurement, 2026. [\[paper\]](https://ieeexplore.ieee.org/document/11408157)
 
